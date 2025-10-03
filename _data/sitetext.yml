@@ -296,7 +296,6 @@ pl: &DEFAULT_PL
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+PL-PL:
+  <<: *DEFAULT_PL
+
