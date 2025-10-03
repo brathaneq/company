@@ -148,7 +148,7 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+pl: &DEFAULT_PL
   header:
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
