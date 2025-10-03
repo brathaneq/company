@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-regular fa-plane
       - title: "Deliveries inspection"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-regular fa-ship
+        icon: fas fa-regular fa-ship
 
   portfolio:
     title: "Portfolio"
