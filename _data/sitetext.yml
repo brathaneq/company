@@ -100,9 +100,9 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
 
-  contact:
-    title: "Contact Us"
-    text: "krzysztof@sowa.eu.org or call +48 123456789"
+ # contact:
+ #   title: "Contact Us"
+ #   text: "krzysztof@sowa.eu.org or call +48 123456789"
  #   section: contact
  #   name: "Name*"
  #   name-validation: "Please enter your name."
