@@ -39,33 +39,33 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "How it all started"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "First steps"
+        year: "October 2025"
+        desc: "Founding of Krzysztof Sowa Import Services."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Beginning of cooperation"
+        year: "October 2025"
+        desc: "EC International (Nantong) was signed as our first customer. They specialise in carbon and stainless steel fasteners. We are hoping to increase their market presence in Eastern Europe."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "First Fair together"
+        year: "October 2025"
+        desc: "On 15th and 16th October we participated in the Fastener Fair, which took place in Kraków, Poland."
+        image: https://fastenerpoland.pl/storage/image/core_files/2022/12/8/b3455c65f1c92578543058f2845c88cb/png/logo_fastener_transparent.png
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+      #- title: "Title"
+      #  year: "2009-2011"
+      #  desc: "Your description here, **Markdown** is fully supported."
+      #  image: assets/img/timeline/4.jpg
+      #  alt:
+      #  # you can enforce the alignment
+      #  align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
