@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Agent"
+        desc: "Providing assistance when you need it, where you need it."
+        icon: fas fa-regular fa-business-time #find more at https://fontawesome.com/icons
+      - title: "Trade Fair representation"
+        desc: ""
+        icon: fas fa-regular fa-plane
+      - title: "Deliveries inspection"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-regular fa-ship
 
   portfolio:
     title: "Portfolio"
@@ -57,7 +57,7 @@ en: &DEFAULT_EN
       - title: "First Fair together"
         year: "October 2025"
         desc: "On 15th and 16th October we participated in the Fastener Fair, which took place in Kraków, Poland."
-        image: https://fastenerpoland.pl/storage/image/core_files/2022/12/8/b3455c65f1c92578543058f2845c88cb/png/logo_fastener_transparent.png
+        image: assets/img/timeline/fastener%20poland.jpg
         alt: image alt text
       #- title: "Title"
       #  year: "2009-2011"
