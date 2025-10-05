@@ -18,17 +18,17 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Agent"
         desc: "Providing assistance when you need it, where you need it."
         icon: fas fa-regular fa-business-time #find more at https://fontawesome.com/icons
       - title: "Trade Fair representation"
-        desc: ""
+        desc: "Sometimes sending a local representative can be more efficient than flying across the globe"
         icon: fas fa-regular fa-plane
       - title: "Deliveries inspection"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Need to inspect loading or unloading of your goods? Have some pictures taken to calm down customers during export? Check the cargo, crossreference with documents? I could help with that!"
         icon: fas fa-regular fa-ship
 
   portfolio:
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "krzysztof@sowa.eu.org or call +48 123456789"
+    text: "krzysztof@sowa.eu.org or call +48 780 730 020"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
