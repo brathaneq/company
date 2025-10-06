@@ -57,7 +57,7 @@ en: &DEFAULT_EN
       - title: "First Fair together"
         year: "October 2025"
         desc: "On 15th and 16th October we participated in the Fastener Fair, which took place in Kraków, Poland."
-        image: assets/img/timeline/fastener%20poland.jpg
+        image: https://www.ecindustry.com/Uploads/news/689ef95fab45f.jpg
         alt: image alt text
       #- title: "Title"
       #  year: "2009-2011"
