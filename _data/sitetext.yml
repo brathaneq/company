@@ -86,7 +86,11 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: "Experienced procurement and logistics professional with over 15 years of expertise in international trade, supplier management, and supply chain optimization. Proven track record in strategic sourcing, contract negotiation, process improvement, and implementing cost-saving initiatives within ISO-compliant environments.
+Throughout his career, Krzysztof has worked with well-established companies such as Biazet S.A., KAN Sp. z o.o., Coral S.A., Eco ABM, and P&Q Sp. z o.o., where he was responsible for supplier evaluation and selection, contract management, logistics coordination, and ensuring project execution efficiency. His experience covers both domestic and international markets, including long-term cooperation with suppliers from Europe and Asia.
+Krzysztof holds a Master’s degree in Economics (International Trade) from the University of Economics in Białystok and Postgraduate Studies in Logistics from the Białystok University of Technology. He has also completed numerous professional courses in business negotiations, supplier assessment, international transport, and legal aspects of procurement.
+Fluent in English (CAE, LCCI certificates) and communicative in German, Krzysztof values professionalism, operational excellence, and building long-term business partnerships.
+Outside of work, he is passionate about technology and system administration, continuously developing his skills in virtualization and containerization by designing and managing server environments. A science-fiction enthusiast and avid reader."
     section: team
     people:
       - name: "Krzysztof Sowa"
