@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome!
-    text: Let's do some business together!
+    title: Let's do some business together!
+    text: Welcome!
     button: Tell Me More
     buttonlink: "#services"
 
