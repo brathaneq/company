@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me"
-    text: "our vision"
-    body: "I started KSIS to help connect customers from Europe with reliable suppliers from Asia. Many companies consider raising their margins by sourcing from the Far East, but they are often held back by the *unknowns*—cultural barriers, quality concerns, and complex logistics. 
+    title: "About KSIS"
+    text: "Your Bridge to Global Markets"
+    body: "I started **KSIS** to help connect customers from Europe with reliable suppliers from Asia. Many companies consider raising their margins by sourcing from the Far East, but they are often held back by the *unknowns*—cultural barriers, quality concerns, and complex logistics. 
     
     At **KSIS**, we believe that international trade shouldn’t be a leap of faith. We act as your eyes, ears, and boots on the ground, transforming a daunting process into a streamlined competitive advantage.
 
@@ -97,7 +97,7 @@ Our goal is to remove the friction from your supply chain. Whether you are a who
 Why Partner with Us?
 
 
-At KSIS, we don't just broker deals; we build long-term stability. We understand that your reputation depends on the quality of your stock. By combining European market insights with deep-rooted Asian supply chain expertise, we provide a transparent, reliable, and profitable importing experience."
+At **KSIS**, we don't just broker deals; we build long-term stability. We understand that your reputation depends on the quality of your stock. By combining European market insights with deep-rooted Asian supply chain expertise, we provide a transparent, reliable, and profitable importing experience."
     section: about
 
   #clients:
