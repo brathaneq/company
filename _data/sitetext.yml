@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Let's do some business together!
-    text: Welcome!
+    text: Welcome
     button: Tell Me More
     buttonlink: "#services"
 
@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Providing assistance when you need it, where you need it."
         icon: fas fa-regular fa-business-time #find more at https://fontawesome.com/icons
       - title: "Trade Fair representation"
-        desc: "Sometimes sending a local representative can be more efficient than flying across the globe"
+        desc: "Sometimes sending a local representative can be more efficient than flying across the globe."
         icon: fas fa-regular fa-plane
       - title: "Deliveries inspection"
         desc: "Need to inspect loading or unloading of your goods? Have some pictures taken to calm down customers during export? Check the cargo, crossreference with documents? I could help with that!"
