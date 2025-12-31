@@ -21,19 +21,24 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Agent"
-        desc: "Providing assistance when you need it, where you need it."
+      - title: "Import Agency"
+        desc: "We act as your dedicated international trade department. Whether you are looking to source high-quality components from Asia or expand your European brand into new markets, we manage the entire lifecycle of the transaction. We bridge the gap between cultures, ensuring that your interests are protected and your margins stay healthy."
         icon: fas fa-regular fa-business-time #find more at https://fontawesome.com/icons
       - title: "Trade Fair representation"
-        desc: "Sometimes sending a local representative can be more efficient than flying across the globe."
+        desc: "Can’t make it to the exhibition? We attend major international trade fairs on your behalf. We don’t just collect brochures; we vet potential partners, analyze competitor trends, and provide you with a comprehensive "Market Intelligence Report" so you can make informed decisions without the travel costs."
         icon: fas fa-regular fa-plane
-      - title: "Deliveries inspection"
-        desc: "Need to inspect loading or unloading of your goods? Have some pictures taken to calm down customers during export? Check the cargo, crossreference with documents? I could help with that!"
+      - title: "Production & Delivery Inspection"
+        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
         icon: fas fa-regular fa-ship
-
+      - title: "Local Claims & Dispute Resolution"
+        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
+        icon: fas fa-regular fa-ship
+       - title: "Landed Cost Calculation"
+        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
+        icon: fas fa-regular fa-ship       
   portfolio:
     title: "Portfolio"
-    text: "Some of the project I have been working in the past"
+    text: "Some of the project we have been working in the past"
     section: portfolio
     closebutton: "Close Project"
 
@@ -48,17 +53,17 @@ en: &DEFAULT_EN
         year: "October 2025"
         desc: "Founding of Krzysztof Sowa Import Services."
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: "First steps"
       - title: "Beginning of cooperation"
         year: "October 2025"
         desc: "EC International (Nantong) was signed as our first customer. They specialise in carbon and stainless steel fasteners. We are hoping to increase their market presence in Eastern Europe."
         image: assets/img/timeline/2.jpg
-        alt:
+        alt: "Beginning of cooperation"
       - title: "First Fair together"
         year: "October 2025"
         desc: "On 15th and 16th October we participated in the Fastener Fair, which took place in Kraków, Poland."
         image: https://www.ecindustry.com/Uploads/news/689ef95fab45f.jpg
-        alt: image alt text
+        alt: "First Fair"
       #- title: "Title"
       #  year: "2009-2011"
       #  desc: "Your description here, **Markdown** is fully supported."
@@ -94,7 +99,7 @@ Our goal is to remove the friction from your supply chain. Whether you are a who
 - **Risk Mitigation:** We bridge the gap in legal and payment practices, providing a secure framework for your international transactions.
 
 
-Why Partner with Us?
+**Why Partner with Us?**
 
 
 At **KSIS**, we don't just broker deals; we build long-term stability. We understand that your reputation depends on the quality of your stock. By combining European market insights with deep-rooted Asian supply chain expertise, we provide a transparent, reliable, and profitable importing experience."
