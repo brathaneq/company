@@ -30,12 +30,7 @@ en: &DEFAULT_EN
       - title: "Production & Delivery Inspection"
         desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
         icon: fas fa-regular fa-ship
-      - title: "Local Claims & Dispute Resolution"
-        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
-        icon: fas fa-regular fa-ship
-       - title: "Landed Cost Calculation"
-        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
-        icon: fas fa-regular fa-ship       
+     
   portfolio:
     title: "Portfolio"
     text: "Some of the project we have been working in the past"
