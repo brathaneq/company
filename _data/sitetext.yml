@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "We act as your dedicated international trade department. Whether you are looking to source high-quality components from Asia or expand your European brand into new markets, we manage the entire lifecycle of the transaction. We bridge the gap between cultures, ensuring that your interests are protected and your margins stay healthy."
         icon: fas fa-regular fa-business-time #find more at https://fontawesome.com/icons
       - title: "Trade Fair representation"
-        desc: "Can’t make it to the exhibition? We attend major international trade fairs on your behalf. We don’t just collect brochures; we vet potential partners, analyze competitor trends, and provide you with a comprehensive "Market Intelligence Report" so you can make informed decisions without the travel costs."
+        desc: "Can’t make it to the exhibition? We attend major international trade fairs on your behalf. We don’t just collect brochures; we vet potential partners, analyze competitor trends, and provide you with a comprehensive *Market Intelligence Report* so you can make informed decisions without the travel costs."
         icon: fas fa-regular fa-plane
       - title: "Production & Delivery Inspection"
         desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
