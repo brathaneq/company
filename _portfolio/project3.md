@@ -1,17 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: Bi-Metal Screws
+subtitle: Fasteners
+image: assets/img/portfolio/03-full.png
+alt: Screws
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Bi-Metal Screws
+  subtitle: Fasteners
+  thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This type of screws is made out of 2 materials - top is made out of SUS 304/316 and tip is made out of SUS410/Alloy Steel. Products are RXB Coated. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+
+
