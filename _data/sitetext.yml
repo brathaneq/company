@@ -42,9 +42,9 @@ en: &DEFAULT_EN
         
   portfolio:
     title: "Portfolio"
-    text: "Some of the project we have been working in the past"
+    text: "Some of the products from our production"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
