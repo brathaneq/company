@@ -1,17 +1,12 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Standard Stainless Steel Fasteners
+subtitle: Bolts, washers, nuts and manu others
+image: assets/img/portfolio/01-full.png
+alt: standard fasteners
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Standard Fasteners
+  subtitle: Fasteners
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+We can source all kinds of fasteners and other components which are specified in DIN and ISO standards. We use both carbon and stainless steel, depending on our customer needs. 
