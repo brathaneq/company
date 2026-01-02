@@ -30,15 +30,15 @@ en: &DEFAULT_EN
       - title: "Production & Delivery Inspection"
         desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
         icon: fas fa-regular fa-ship
-      - title: "Production & Delivery Inspection"
-        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
-        icon: fas fa-regular fa-ship
-      - title: "Production & Delivery Inspection"
-        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
-        icon: fas fa-regular fa-ship
-      - title: "Production & Delivery Inspection"
-        desc: "Quality is non-negotiable. Through our network of trusted on-site partners, we coordinate rigorous inspections at various stages of production. From initial factory audits to final container loading, we ensure that the goods arriving at your warehouse are exactly what you paid for."
-        icon: fas fa-regular fa-ship
+      - title: "Local Claims & Dispute Resolution"
+        desc: "Leveraging our European location and legal-commercial expertise, we provide professional representation in the event of contractual disagreements or product discrepancies. We act as a local mediator to resolve conflicts directly with suppliers—negotiating settlements, *make-goods,* or replacements—to protect your interests without the need for costly international litigation."
+        icon: fas fa-regular fa-handshake
+      - title: "Landed Cost & Financial Analysis"
+        desc: "International sourcing involves more than just the purchase price. We provide comprehensive profitability analyses and cost estimates, calculating the "true landed cost" of your goods. By accounting for maritime freight, customs duties, taxes, and insurance, we provide the financial clarity needed to protect your margins and ensure project viability before you commit to an order."
+        icon: fas fa-regular fa-dollar-sign
+      - title: "Personnel Training & Compliance Coaching"
+        desc: "We empower your internal teams with the specialized knowledge required to navigate the complexities of international trade. Our training programs are designed to transition staff from general purchasing to expert-level global sourcing."
+        icon: fas fa-regular fa-graduation-cap
         
   portfolio:
     title: "Portfolio"
