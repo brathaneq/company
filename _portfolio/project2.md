@@ -1,13 +1,13 @@
 ---
 title: Timber Screws Bugle Head
 subtitle: Fasteners
-image: assets/img/portfolio/01-full.png
+image: assets/img/portfolio/02-full.png
 alt: Wimber Screws
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.png
+  thumbnail: assets/img/portfolio/02-thumbnail.png
 ---
 This is universal screw to be used with timber. There are 5 lenghts used, starting from 75 mm up to 150 mm. 
 
