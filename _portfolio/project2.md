@@ -2,7 +2,7 @@
 title: Timber Screws Bugle Head
 subtitle: Fasteners
 image: assets/img/portfolio/02-full.png
-alt: Wimber Screws
+alt: Timber Screws
 
 caption:
   title: Timber Screws
