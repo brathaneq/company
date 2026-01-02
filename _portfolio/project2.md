@@ -9,7 +9,7 @@ caption:
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+This is universal screw to be used with timber. There are 5 lenghts used, starting from 75 mm up to 150 mm. 
 
 {:.list-inline}
 - Drive: Torx
