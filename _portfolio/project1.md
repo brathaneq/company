@@ -1,6 +1,6 @@
 ---
 title: Standard Stainless Steel Fasteners
-subtitle: Bolts, washers, nuts and manu others
+subtitle: Bolts, washers, nuts and many others
 image: assets/img/portfolio/01-full.png
 alt: standard fasteners
 
