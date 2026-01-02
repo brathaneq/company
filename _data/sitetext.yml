@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: ""
+    text: "services text"
     section: services
     list:
       - title: "Import Agency"
